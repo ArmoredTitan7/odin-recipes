@@ -1,5 +1,5 @@
 # odin-recipes
-<p><h1>homework :)</h1></p>
+<p><strong>homework :)</strong></p>
 <p>Well learning all of that at 33 and without english being my mother language. I believe it's never too late :)</p>
 <p><strong>Thank to Odin project.</strong></p>
 
@@ -23,7 +23,7 @@
 </p>
       
     
-   <p> <h2>I am excepted to have a total of 4+1 folder in the repository ( as per some of the courses ) </h2> </p>
+   <p> I am excepted to have a total of 4+1 folder in the repository ( as per some of the courses ) </p>
    <p>
      <ul>
        <li>CSS ( that won't be usin) </li>
