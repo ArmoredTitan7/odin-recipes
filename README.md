@@ -23,17 +23,16 @@
 </p>
       
     
-   <p><h2>I am excepted to have a total of 4+1 folder in the repository ( as per some of the courses ) </h2></p>
-   
-     <p>
-       <ul>
-         <li>CSS ( that won't be usin) </li>
-         <li>Pages</li>
-         <li>Images</li>
-         <li>Java ( that won't be usin)</li>
-         <li>1 Video ( that won't be usin)</li>
+   <p> <h2>I am excepted to have a total of 4+1 folder in the repository ( as per some of the courses ) </h2> </p>
+   <p>
+     <ul>
+       <li>CSS ( that won't be usin) </li>
+       <li>Pages</li>
+       <li>Images</li>
+       <li>Java ( that won't be usin)</li>
+       <li>1 Video ( that won't be usin)</li>
        </ul>
-     </p>   
+    </p>   
      
    <p><strong>Pages should contain a total of about 18 pages</strong></p>
       <p>Images first estimation about 12 </p>
